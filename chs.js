@@ -110,7 +110,7 @@ var cnItems = {
     "is the primary currency to buy new tools and make new buildings, so don´t be afraid of having too much": "是购买新工具和建造新建筑的主要货币，所以不要害怕拥有太多",
     "It seems like you have found a source of": "好像找到了来源",
     "It starts": "开始",
-    "Lemme play": "让我玩",
+    "Lemme play": "来玩",
     "magic": "魔法",
     "Planted 10 seeds of any flower": "种下 10 颗任意花的种子",
     "Rdd Vault": "Rdd 保险库",
